@@ -14,6 +14,8 @@ import java.util.TimeZone;
 		Jsr310JpaConverters.class
 })
 public class PollsApplication {
+	
+	// adding comment in main java application
 
 	@PostConstruct
 	void init() {
